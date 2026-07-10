@@ -1,0 +1,3 @@
+/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/armeabi-v7a/CMakeFiles/sudoku.dir
+/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+1	6588	1783700883558039109	CMakeFiles/sudoku.dir/AndroidOut.cpp.o	e0b237c2b28a0f05
+7	6663	1783700883632789568	CMakeFiles/sudoku.dir/Utility.cpp.o	417477aff249d0fd
+6	7011	1783700883918722389	CMakeFiles/sudoku.dir/TextureAsset.cpp.o	7fcd14e6e5af9c6a
+0	7468	1783700884436859069	CMakeFiles/sudoku.dir/main.cpp.o	61356cb642b41ca5
+17	10491	1783701010585837856	CMakeFiles/sudoku.dir/Shader.cpp.o	4f400fdb9d92b224
+13	11338	1783701011540431757	CMakeFiles/sudoku.dir/main.cpp.o	61356cb642b41ca5
+15	13553	1783701013729488030	CMakeFiles/sudoku.dir/Renderer.cpp.o	d96f2bd9d4eee7a1
+13553	13841	1783701014062001840	/Users/savvas/Documents/sudoku-android-app/app/build/intermediates/cxx/Debug/256n3e3f/obj/arm64-v8a/libsudoku.so	542a1ac231d1e3a1
+16	6647	1783703402834025629	CMakeFiles/sudoku.dir/main.cpp.o	61356cb642b41ca5
+17	8302	1783703404540611878	CMakeFiles/sudoku.dir/Renderer.cpp.o	d96f2bd9d4eee7a1
+8303	8627	1783703404842889945	/Users/savvas/Documents/sudoku-android-app/app/build/intermediates/cxx/Debug/256n3e3f/obj/arm64-v8a/libsudoku.so	542a1ac231d1e3a1

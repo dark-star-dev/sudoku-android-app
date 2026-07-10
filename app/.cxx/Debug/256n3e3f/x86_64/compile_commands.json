@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/main.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/main.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/AndroidOut.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/AndroidOut.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/AndroidOut.cpp"
+},
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/Renderer.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Renderer.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Renderer.cpp"
+},
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/Shader.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Shader.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Shader.cpp"
+},
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/TextureAsset.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/TextureAsset.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/TextureAsset.cpp"
+},
+{
+  "directory": "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+  "command": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android30 --sysroot=/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsudoku_EXPORTS -isystem /Users/savvas/.gradle/caches/9.4.1/transforms/4695cd87027816cfff909f5465337390/transformed/games-activity-4.0.0/prefab/modules/game-activity_static/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/sudoku.dir/Utility.cpp.o -c /Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Utility.cpp",
+  "file": "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/Utility.cpp"
+}
+]

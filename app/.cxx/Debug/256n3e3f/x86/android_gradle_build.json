@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/savvas/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/savvas/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "sudoku::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "sudoku",
+      "output": "/Users/savvas/Documents/sudoku-android-app/app/build/intermediates/cxx/Debug/256n3e3f/obj/x86/libsudoku.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/savvas/Library/Android/sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/savvas/Documents/sudoku-android-app/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/savvas/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/savvas/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/savvas/Documents/sudoku-android-app/app/.cxx/Debug/256n3e3f/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "sudoku::@6890427a1f51a3e7e1df": {
+      "artifactName": "sudoku",
+      "abi": "x86_64",
+      "output": "/Users/savvas/Documents/sudoku-android-app/app/build/intermediates/cxx/Debug/256n3e3f/obj/x86_64/libsudoku.so",
+      "runtimeFiles": []
+    }
+  }
+}
